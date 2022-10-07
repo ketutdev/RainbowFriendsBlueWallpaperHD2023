@@ -1,0 +1,1433 @@
+{
+  "Ads": [
+    {
+
+      "admob_interid":"",
+      "admob_native":"",
+      "admob_openid": "",
+      "admob_rewardid":"",
+      "max_banner":"dd88c8719bfc545x",
+      "max_inter":"e066763f98fd279x",
+      "max_reward":"93c2125d61e900fx",
+      "interval": 1,
+      "coin_reward": 200,
+      
+      "high_paying_keyword_1": "satu",
+      "high_paying_keyword_2": "dua",
+      "high_paying_keyword_3": "tiga",
+      "high_paying_keyword_4": "empat",
+      "high_paying_keyword_5": "lima",
+      "status_app": "0",
+      "link_redirect": "https://"
+    }
+  ],
+"Categories": [
+    {
+      "name_category": "ketutdev",
+      "image": "#"
+    }
+  ],
+  "Data":
+  [
+    {
+      "id":1,
+      "name_category": "ketutdev",
+      "title":"1",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/1.webp",
+      "coin":1000
+    },
+    {
+      "id": 2,
+      "name_category": "ketutdev",
+      "title": "2",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/2.webp",
+      "coin":1000
+    },
+    {
+      "id":3,
+      "name_category": "ketutdev",
+      "title":"3",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/3.webp",
+      "coin":1000
+    },
+    {
+      "id":4,
+      "name_category": "ketutdev",
+      "title":"4",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/4.webp",
+      "coin":1000
+    },
+    {
+      "id":5,
+      "name_category": "ketutdev",
+      "title":"5",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/5.webp",
+      "coin":1000
+    },
+    {
+      "id":6,
+      "name_category": "ketutdev",
+      "title":"6",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/6.webp",
+      "coin":1000
+    },
+    {
+      "id":7,
+      "name_category": "ketutdev",
+      "title":"7",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/7.webp",
+      "coin":1000
+    },
+    {
+      "id":8,
+      "name_category": "ketutdev",
+      "title":"8",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/8.webp",
+      "coin":1000
+    },
+    {
+      "id":9,
+      "name_category": "ketutdev",
+      "title":"9",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/9.webp",
+      "coin":1000
+    },
+    {
+      "id":10,
+      "name_category": "ketutdev",
+      "title":"10",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/10.webp",
+      "coin":1000
+    },
+    {
+      "id": 11,
+      "name_category": "ketutdev",
+      "title": "11",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/11.webp",
+      "coin":1000
+    },
+    {
+      "id":12,
+      "name_category": "ketutdev",
+      "title":"12",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/12.webp",
+      "coin":1000
+    },
+    {
+      "id":13,
+      "name_category": "ketutdev",
+      "title":"13",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/13.webp",
+      "coin":1000
+    },
+    {
+      "id":14,
+      "name_category": "ketutdev",
+      "title":"14",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/14.webp",
+      "coin":1000
+    },
+    {
+      "id":15,
+      "name_category": "ketutdev",
+      "title":"15",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/15.webp",
+      "coin":1000
+    },
+    {
+      "id":16,
+      "name_category": "ketutdev",
+      "title":"16",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/16.webp",
+      "coin":1000
+    },
+    {
+      "id":17,
+      "name_category": "ketutdev",
+      "title":"17",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/17.webp",
+      "coin":1000
+    },
+    {
+      "id":18,
+      "name_category": "ketutdev",
+      "title":"18",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/18.webp",
+      "coin":1000
+    },
+    {
+      "id":19,
+      "name_category": "ketutdev",
+      "title":"19",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/19.webp",
+      "coin":1000
+    },
+    {
+      "id":20,
+      "name_category": "ketutdev",
+      "title":"20",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/20.webp",
+      "coin":1000
+    },
+    {
+      "id": 21,
+      "name_category": "ketutdev",
+      "title": "21",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/21.webp",
+      "coin":1000
+    },
+    {
+      "id":22,
+      "name_category": "ketutdev",
+      "title":"22",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/22.webp",
+      "coin":1000
+    },
+    {
+      "id":23,
+      "name_category": "ketutdev",
+      "title":"23",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/23.webp",
+      "coin":1000
+    },
+    {
+      "id":24,
+      "name_category": "ketutdev",
+      "title":"24",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/24.webp",
+      "coin":1000
+    },
+    {
+      "id":25,
+      "name_category": "ketutdev",
+      "title":"25",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/25.webp",
+      "coin":1000
+    },
+    {
+      "id":26,
+      "name_category": "ketutdev",
+      "title":"26",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/26.webp",
+      "coin":1000
+    },
+    {
+      "id":27,
+      "name_category": "ketutdev",
+      "title":"27",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/27.webp",
+      "coin":1000
+    },
+    {
+      "id":28,
+      "name_category": "ketutdev",
+      "title":"28",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/28.webp",
+      "coin":1000
+    },
+    {
+      "id":29,
+      "name_category": "ketutdev",
+      "title":"29",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/29.webp",
+      "coin":1000
+    },
+    {
+      "id":30,
+      "name_category": "ketutdev",
+      "title":"30",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/30.webp",
+      "coin":1000
+    },
+    {
+      "id": 31,
+      "name_category": "ketutdev",
+      "title": "31",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/31.webp",
+      "coin":1000
+    },
+    {
+      "id":32,
+      "name_category": "ketutdev",
+      "title":"32",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/32.webp",
+      "coin":1000
+    },
+    {
+      "id":33,
+      "name_category": "ketutdev",
+      "title":"33",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/33.webp",
+      "coin":1000
+    },
+    {
+      "id":34,
+      "name_category": "ketutdev",
+      "title":"34",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/34.webp",
+      "coin":1000
+    },
+    {
+      "id":35,
+      "name_category": "ketutdev",
+      "title":"35",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/35.webp",
+      "coin":1000
+    },
+    {
+      "id":36,
+      "name_category": "ketutdev",
+      "title":"36",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/36.webp",
+      "coin":1000
+    },
+    {
+      "id":37,
+      "name_category": "ketutdev",
+      "title":"37",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/37.webp",
+      "coin":1000
+    },
+    {
+      "id":38,
+      "name_category": "ketutdev",
+      "title":"38",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/38.webp",
+      "coin":1000
+    },
+    {
+      "id":39,
+      "name_category": "ketutdev",
+      "title":"39",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/39.webp",
+      "coin":1000
+    },
+    {
+      "id":40,
+      "name_category": "ketutdev",
+      "title":"40",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/40.webp",
+      "coin":1000
+    },
+    {
+      "id": 41,
+      "name_category": "ketutdev",
+      "title": "41",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/41.webp",
+      "coin":1000
+    },
+    {
+      "id":42,
+      "name_category": "ketutdev",
+      "title":"42",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/42.webp",
+      "coin":1000
+    },
+    {
+      "id":43,
+      "name_category": "ketutdev",
+      "title":"43",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/43.webp",
+      "coin":1000
+    },
+    {
+      "id":44,
+      "name_category": "ketutdev",
+      "title":"44",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/44.webp",
+      "coin":1000
+    },
+    {
+      "id":45,
+      "name_category": "ketutdev",
+      "title":"45",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/45.webp",
+      "coin":1000
+    },
+    {
+      "id":46,
+      "name_category": "ketutdev",
+      "title":"46",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/46.webp",
+      "coin":1000
+    },
+    {
+      "id":47,
+      "name_category": "ketutdev",
+      "title":"47",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/47.webp",
+      "coin":1000
+    },
+    {
+      "id":48,
+      "name_category": "ketutdev",
+      "title":"48",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/48.webp",
+      "coin":1000
+    },
+    {
+      "id":49,
+      "name_category": "ketutdev",
+      "title":"49",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/49.webp",
+      "coin":1000
+    },
+    {
+      "id":50,
+      "name_category": "ketutdev",
+      "title":"50",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/50.webp",
+      "coin":1000
+    },
+    {
+      "id": 51,
+      "name_category": "ketutdev",
+      "title": "51",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/51.webp",
+      "coin":1000
+    },
+    {
+      "id":52,
+      "name_category": "ketutdev",
+      "title":"52",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/52.webp",
+      "coin":1000
+    },
+    {
+      "id":53,
+      "name_category": "ketutdev",
+      "title":"53",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/53.webp",
+      "coin":1000
+    },
+    {
+      "id":54,
+      "name_category": "ketutdev",
+      "title":"54",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/54.webp",
+      "coin":1000
+    },
+    {
+      "id":55,
+      "name_category": "ketutdev",
+      "title":"55",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/55.webp",
+      "coin":1000
+    },
+    {
+      "id":56,
+      "name_category": "ketutdev",
+      "title":"56",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/56.webp",
+      "coin":1000
+    },
+    {
+      "id":57,
+      "name_category": "ketutdev",
+      "title":"57",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/57.webp",
+      "coin":1000
+    },
+    {
+      "id":58,
+      "name_category": "ketutdev",
+      "title":"58",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/58.webp",
+      "coin":1000
+    },
+    {
+      "id":59,
+      "name_category": "ketutdev",
+      "title":"59",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/59.webp",
+      "coin":1000
+    },
+    {
+      "id":60,
+      "name_category": "ketutdev",
+      "title":"60",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/60.webp",
+      "coin":1000
+    },
+    {
+      "id": 61,
+      "name_category": "ketutdev",
+      "title": "61",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/61.webp",
+      "coin":1000
+    },
+    {
+      "id":62,
+      "name_category": "ketutdev",
+      "title":"62",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/62.webp",
+      "coin":1000
+    },
+    {
+      "id":63,
+      "name_category": "ketutdev",
+      "title":"63",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/63.webp",
+      "coin":1000
+    },
+    {
+      "id":64,
+      "name_category": "ketutdev",
+      "title":"64",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/64.webp",
+      "coin":1000
+    },
+    {
+      "id":65,
+      "name_category": "ketutdev",
+      "title":"65",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/65.webp",
+      "coin":1000
+    },
+    {
+      "id":66,
+      "name_category": "ketutdev",
+      "title":"66",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/66.webp",
+      "coin":1000
+    },
+    {
+      "id":67,
+      "name_category": "ketutdev",
+      "title":"67",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/67.webp",
+      "coin":1000
+    },
+    {
+      "id":68,
+      "name_category": "ketutdev",
+      "title":"68",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/68.webp",
+      "coin":1000
+    },
+    {
+      "id":69,
+      "name_category": "ketutdev",
+      "title":"69",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/69.webp",
+      "coin":1000
+    },
+    {
+      "id":70,
+      "name_category": "ketutdev",
+      "title":"70",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/70.webp",
+      "coin":1000
+    },
+    {
+      "id": 71,
+      "name_category": "ketutdev",
+      "title": "71",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/71.webp",
+      "coin":1000
+    },
+    {
+      "id":72,
+      "name_category": "ketutdev",
+      "title":"72",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/72.webp",
+      "coin":1000
+    },
+    {
+      "id":73,
+      "name_category": "ketutdev",
+      "title":"73",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/73.webp",
+      "coin":1000
+    },
+    {
+      "id":74,
+      "name_category": "ketutdev",
+      "title":"74",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/74.webp",
+      "coin":1000
+    },
+    {
+      "id":75,
+      "name_category": "ketutdev",
+      "title":"75",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/75.webp",
+      "coin":1000
+    },
+    {
+      "id":76,
+      "name_category": "ketutdev",
+      "title":"76",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/76.webp",
+      "coin":1000
+    },
+    {
+      "id":77,
+      "name_category": "ketutdev",
+      "title":"77",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/77.webp",
+      "coin":1000
+    },
+    {
+      "id":78,
+      "name_category": "ketutdev",
+      "title":"78",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/78.webp",
+      "coin":1000
+    },
+    {
+      "id":79,
+      "name_category": "ketutdev",
+      "title":"79",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/79.webp",
+      "coin":1000
+    },
+    {
+      "id":80,
+      "name_category": "ketutdev",
+      "title":"80",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/80.webp",
+      "coin":1000
+    },
+    {
+      "id": 81,
+      "name_category": "ketutdev",
+      "title": "81",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/81.webp",
+      "coin":1000
+    },
+    {
+      "id":82,
+      "name_category": "ketutdev",
+      "title":"82",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/82.webp",
+      "coin":1000
+    },
+    {
+      "id":83,
+      "name_category": "ketutdev",
+      "title":"83",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/83.webp",
+      "coin":1000
+    },
+    {
+      "id":84,
+      "name_category": "ketutdev",
+      "title":"84",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/84.webp",
+      "coin":1000
+    },
+    {
+      "id":85,
+      "name_category": "ketutdev",
+      "title":"85",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/85.webp",
+      "coin":1000
+    },
+    {
+      "id":86,
+      "name_category": "ketutdev",
+      "title":"86",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/86.webp",
+      "coin":1000
+    },
+    {
+      "id":87,
+      "name_category": "ketutdev",
+      "title":"87",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/87.webp",
+      "coin":1000
+    },
+    {
+      "id":88,
+      "name_category": "ketutdev",
+      "title":"88",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/88.webp",
+      "coin":1000
+    },
+    {
+      "id":89,
+      "name_category": "ketutdev",
+      "title":"89",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/89.webp",
+      "coin":1000
+    },
+    {
+      "id":90,
+      "name_category": "ketutdev",
+      "title":"90",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/90.webp",
+      "coin":1000
+    },
+    {
+      "id": 91,
+      "name_category": "ketutdev",
+      "title": "91",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/91.webp",
+      "coin":1000
+    },
+    {
+      "id":92,
+      "name_category": "ketutdev",
+      "title":"92",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/92.webp",
+      "coin":1000
+    },
+    {
+      "id":93,
+      "name_category": "ketutdev",
+      "title":"93",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/93.webp",
+      "coin":1000
+    },
+    {
+      "id":94,
+      "name_category": "ketutdev",
+      "title":"94",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/94.webp",
+      "coin":1000
+    },
+    {
+      "id":95,
+      "name_category": "ketutdev",
+      "title":"95",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/95.webp",
+      "coin":1000
+    },
+    {
+      "id":96,
+      "name_category": "ketutdev",
+      "title":"96",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/96.webp",
+      "coin":1000
+    },
+    {
+      "id":97,
+      "name_category": "ketutdev",
+      "title":"97",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/97.webp",
+      "coin":1000
+    },
+    {
+      "id":98,
+      "name_category": "ketutdev",
+      "title":"98",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/98.webp",
+      "coin":1000
+    },
+    {
+      "id":99,
+      "name_category": "ketutdev",
+      "title":"99",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/99.webp",
+      "coin":1000
+    },
+    {
+      "id":100,
+      "name_category": "ketutdev",
+      "title":"100",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/100.webp",
+      "coin":1000
+    },
+    {
+      "id": 101,
+      "name_category": "ketutdev",
+      "title": "101",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/101.webp",
+      "coin":1000
+    },
+    {
+      "id":102,
+      "name_category": "ketutdev",
+      "title":"102",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/102.webp",
+      "coin":1000
+    },
+    {
+      "id":103,
+      "name_category": "ketutdev",
+      "title":"103",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/103.webp",
+      "coin":1000
+    },
+    {
+      "id":104,
+      "name_category": "ketutdev",
+      "title":"104",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/104.webp",
+      "coin":1000
+    },
+    {
+      "id":105,
+      "name_category": "ketutdev",
+      "title":"105",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/105.webp",
+      "coin":1000
+    },
+    {
+      "id":106,
+      "name_category": "ketutdev",
+      "title":"106",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/106.webp",
+      "coin":1000
+    },
+    {
+      "id":107,
+      "name_category": "ketutdev",
+      "title":"107",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/107.webp",
+      "coin":1000
+    },
+    {
+      "id":108,
+      "name_category": "ketutdev",
+      "title":"108",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/108.webp",
+      "coin":1000
+    },
+    {
+      "id":109,
+      "name_category": "ketutdev",
+      "title":"109",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/109.webp",
+      "coin":1000
+    },
+    {
+      "id":110,
+      "name_category": "ketutdev",
+      "title":"110",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/110.webp",
+      "coin":1000
+    },
+    {
+      "id": 111,
+      "name_category": "ketutdev",
+      "title": "111",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/111.webp",
+      "coin":1000
+    },
+    {
+      "id":112,
+      "name_category": "ketutdev",
+      "title":"112",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/112.webp",
+      "coin":1000
+    },
+    {
+      "id":113,
+      "name_category": "ketutdev",
+      "title":"113",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/113.webp",
+      "coin":1000
+    },
+    {
+      "id":114,
+      "name_category": "ketutdev",
+      "title":"114",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/114.webp",
+      "coin":1000
+    },
+    {
+      "id":115,
+      "name_category": "ketutdev",
+      "title":"115",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/115.webp",
+      "coin":1000
+    },
+    {
+      "id":116,
+      "name_category": "ketutdev",
+      "title":"116",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/116.webp",
+      "coin":1000
+    },
+    {
+      "id":117,
+      "name_category": "ketutdev",
+      "title":"117",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/117.webp",
+      "coin":1000
+    },
+    {
+      "id":118,
+      "name_category": "ketutdev",
+      "title":"118",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/118.webp",
+      "coin":1000
+    },
+    {
+      "id":119,
+      "name_category": "ketutdev",
+      "title":"119",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/119.webp",
+      "coin":1000
+    },
+    {
+      "id":120,
+      "name_category": "ketutdev",
+      "title":"120",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/120.webp",
+      "coin":1000
+    },
+    {
+      "id": 121,
+      "name_category": "ketutdev",
+      "title": "121",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/121.webp",
+      "coin":1000
+    },
+    {
+      "id":122,
+      "name_category": "ketutdev",
+      "title":"122",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/122.webp",
+      "coin":1000
+    },
+    {
+      "id":123,
+      "name_category": "ketutdev",
+      "title":"123",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/123.webp",
+      "coin":1000
+    },
+    {
+      "id":124,
+      "name_category": "ketutdev",
+      "title":"124",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/124.webp",
+      "coin":1000
+    },
+    {
+      "id":125,
+      "name_category": "ketutdev",
+      "title":"125",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/125.webp",
+      "coin":1000
+    },
+    {
+      "id":126,
+      "name_category": "ketutdev",
+      "title":"126",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/126.webp",
+      "coin":1000
+    },
+    {
+      "id":127,
+      "name_category": "ketutdev",
+      "title":"127",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/127.webp",
+      "coin":1000
+    },
+    {
+      "id":128,
+      "name_category": "ketutdev",
+      "title":"128",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/128.webp",
+      "coin":1000
+    },
+    {
+      "id":129,
+      "name_category": "ketutdev",
+      "title":"129",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/129.webp",
+      "coin":1000
+    },
+    {
+      "id":130,
+      "name_category": "ketutdev",
+      "title":"130",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/130.webp",
+      "coin":1000
+    },
+    {
+      "id": 131,
+      "name_category": "ketutdev",
+      "title": "131",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/131.webp",
+      "coin":1000
+    },
+    {
+      "id":132,
+      "name_category": "ketutdev",
+      "title":"132",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/132.webp",
+      "coin":1000
+    },
+    {
+      "id":133,
+      "name_category": "ketutdev",
+      "title":"133",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/133.webp",
+      "coin":1000
+    },
+    {
+      "id":134,
+      "name_category": "ketutdev",
+      "title":"134",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/134.webp",
+      "coin":1000
+    },
+    {
+      "id":135,
+      "name_category": "ketutdev",
+      "title":"135",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/135.webp",
+      "coin":1000
+    },
+    {
+      "id":136,
+      "name_category": "ketutdev",
+      "title":"136",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/136.webp",
+      "coin":1000
+    },
+    {
+      "id":137,
+      "name_category": "ketutdev",
+      "title":"137",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/137.webp",
+      "coin":1000
+    },
+    {
+      "id":138,
+      "name_category": "ketutdev",
+      "title":"138",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/138.webp",
+      "coin":1000
+    },
+    {
+      "id":139,
+      "name_category": "ketutdev",
+      "title":"139",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/139.webp",
+      "coin":1000
+    },
+    {
+      "id":140,
+      "name_category": "ketutdev",
+      "title":"140",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/140.webp",
+      "coin":1000
+    },
+    {
+      "id": 141,
+      "name_category": "ketutdev",
+      "title": "141",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/141.webp",
+      "coin":1000
+    },
+    {
+      "id":142,
+      "name_category": "ketutdev",
+      "title":"142",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/142.webp",
+      "coin":1000
+    },
+    {
+      "id":143,
+      "name_category": "ketutdev",
+      "title":"143",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/143.webp",
+      "coin":1000
+    },
+    {
+      "id":144,
+      "name_category": "ketutdev",
+      "title":"144",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/144.webp",
+      "coin":1000
+    },
+    {
+      "id":145,
+      "name_category": "ketutdev",
+      "title":"145",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/145.webp",
+      "coin":1000
+    },
+    {
+      "id":146,
+      "name_category": "ketutdev",
+      "title":"146",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/146.webp",
+      "coin":1000
+    },
+    {
+      "id":147,
+      "name_category": "ketutdev",
+      "title":"147",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/147.webp",
+      "coin":1000
+    },
+    {
+      "id":148,
+      "name_category": "ketutdev",
+      "title":"148",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/148.webp",
+      "coin":1000
+    },
+    {
+      "id":149,
+      "name_category": "ketutdev",
+      "title":"149",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/149.webp",
+      "coin":1000
+    },
+    {
+      "id":150,
+      "name_category": "ketutdev",
+      "title":"150",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/150.webp",
+      "coin":1000
+    },
+    {
+      "id": 151,
+      "name_category": "ketutdev",
+      "title": "151",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/151.webp",
+      "coin":1000
+    },
+    {
+      "id":152,
+      "name_category": "ketutdev",
+      "title":"152",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/152.webp",
+      "coin":1000
+    },
+    {
+      "id":153,
+      "name_category": "ketutdev",
+      "title":"153",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/153.webp",
+      "coin":1000
+    },
+    {
+      "id":154,
+      "name_category": "ketutdev",
+      "title":"154",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/154.webp",
+      "coin":1000
+    },
+    {
+      "id":155,
+      "name_category": "ketutdev",
+      "title":"155",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/155.webp",
+      "coin":1000
+    },
+    {
+      "id":156,
+      "name_category": "ketutdev",
+      "title":"156",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/156.webp",
+      "coin":1000
+    },
+    {
+      "id":157,
+      "name_category": "ketutdev",
+      "title":"157",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/157.webp",
+      "coin":1000
+    },
+    {
+      "id":158,
+      "name_category": "ketutdev",
+      "title":"158",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/158.webp",
+      "coin":1000
+    },
+    {
+      "id":159,
+      "name_category": "ketutdev",
+      "title":"159",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/159.webp",
+      "coin":1000
+    },
+    {
+      "id":160,
+      "name_category": "ketutdev",
+      "title":"160",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/160.webp",
+      "coin":1000
+    },
+    {
+      "id": 161,
+      "name_category": "ketutdev",
+      "title": "161",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/161.webp",
+      "coin":1000
+    },
+    {
+      "id":162,
+      "name_category": "ketutdev",
+      "title":"162",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/162.webp",
+      "coin":1000
+    },
+    {
+      "id":163,
+      "name_category": "ketutdev",
+      "title":"163",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/163.webp",
+      "coin":1000
+    },
+    {
+      "id":164,
+      "name_category": "ketutdev",
+      "title":"164",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/164.webp",
+      "coin":1000
+    },
+    {
+      "id":165,
+      "name_category": "ketutdev",
+      "title":"165",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/165.webp",
+      "coin":1000
+    },
+    {
+      "id":166,
+      "name_category": "ketutdev",
+      "title":"166",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/166.webp",
+      "coin":1000
+    },
+    {
+      "id":167,
+      "name_category": "ketutdev",
+      "title":"167",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/167.webp",
+      "coin":1000
+    },
+    {
+      "id":168,
+      "name_category": "ketutdev",
+      "title":"168",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/168.webp",
+      "coin":1000
+    },
+    {
+      "id":169,
+      "name_category": "ketutdev",
+      "title":"169",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/169.webp",
+      "coin":1000
+    },
+    {
+      "id":170,
+      "name_category": "ketutdev",
+      "title":"170",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/170.webp",
+      "coin":1000
+    },
+    {
+      "id": 171,
+      "name_category": "ketutdev",
+      "title": "171",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/171.webp",
+      "coin":1000
+    },
+    {
+      "id":172,
+      "name_category": "ketutdev",
+      "title":"172",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/172.webp",
+      "coin":1000
+    },
+    {
+      "id":173,
+      "name_category": "ketutdev",
+      "title":"173",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/173.webp",
+      "coin":1000
+    },
+    {
+      "id":174,
+      "name_category": "ketutdev",
+      "title":"174",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/174.webp",
+      "coin":1000
+    },
+    {
+      "id":175,
+      "name_category": "ketutdev",
+      "title":"175",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/175.webp",
+      "coin":1000
+    },
+    {
+      "id":176,
+      "name_category": "ketutdev",
+      "title":"176",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/176.webp",
+      "coin":1000
+    },
+    {
+      "id":177,
+      "name_category": "ketutdev",
+      "title":"177",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/177.webp",
+      "coin":1000
+    },
+    {
+      "id":178,
+      "name_category": "ketutdev",
+      "title":"178",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/178.webp",
+      "coin":1000
+    },
+    {
+      "id":179,
+      "name_category": "ketutdev",
+      "title":"179",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/179.webp",
+      "coin":1000
+    },
+    {
+      "id":180,
+      "name_category": "ketutdev",
+      "title":"180",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/180.webp",
+      "coin":1000
+    },
+    {
+      "id": 181,
+      "name_category": "ketutdev",
+      "title": "181",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/181.webp",
+      "coin":1000
+    },
+    {
+      "id":182,
+      "name_category": "ketutdev",
+      "title":"182",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/182.webp",
+      "coin":1000
+    },
+    {
+      "id":183,
+      "name_category": "ketutdev",
+      "title":"183",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/183.webp",
+      "coin":1000
+    },
+    {
+      "id":184,
+      "name_category": "ketutdev",
+      "title":"184",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/184.webp",
+      "coin":1000
+    },
+    {
+      "id":185,
+      "name_category": "ketutdev",
+      "title":"185",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/185.webp",
+      "coin":1000
+    },
+    {
+      "id":186,
+      "name_category": "ketutdev",
+      "title":"186",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/186.webp",
+      "coin":1000
+    },
+    {
+      "id":187,
+      "name_category": "ketutdev",
+      "title":"187",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/187.webp",
+      "coin":1000
+    },
+    {
+      "id":188,
+      "name_category": "ketutdev",
+      "title":"188",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/188.webp",
+      "coin":1000
+    },
+    {
+      "id":189,
+      "name_category": "ketutdev",
+      "title":"189",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/189.webp",
+      "coin":1000
+    },
+    {
+      "id":190,
+      "name_category": "ketutdev",
+      "title":"190",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/190.webp",
+      "coin":1000
+    },
+    {
+      "id": 191,
+      "name_category": "ketutdev",
+      "title": "191",
+      "image": "https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/191.webp",
+      "coin":1000
+    },
+    {
+      "id":192,
+      "name_category": "ketutdev",
+      "title":"192",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/192.webp",
+      "coin":1000
+    },
+    {
+      "id":193,
+      "name_category": "ketutdev",
+      "title":"193",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/193.webp",
+      "coin":1000
+    },
+    {
+      "id":194,
+      "name_category": "ketutdev",
+      "title":"194",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/194.webp",
+      "coin":1000
+    },
+    {
+      "id":195,
+      "name_category": "ketutdev",
+      "title":"195",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/195.webp",
+      "coin":1000
+    },
+    {
+      "id":196,
+      "name_category": "ketutdev",
+      "title":"196",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/196.webp",
+      "coin":1000
+    },
+    {
+      "id":197,
+      "name_category": "ketutdev",
+      "title":"197",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/197.webp",
+      "coin":1000
+    },
+    {
+      "id":198,
+      "name_category": "ketutdev",
+      "title":"198",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/198.webp",
+      "coin":1000
+    },
+    {
+      "id":199,
+      "name_category": "ketutdev",
+      "title":"199",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/199.webp",
+      "coin":1000
+    },
+    {
+      "id":200,
+      "name_category": "ketutdev",
+      "title":"200",
+      "image":"https://cdn.statically.io/gh/ketutdev/RainbowFriendsBlueWallpaperHD2023/main/200.webp",
+      "coin":1000
+    }
+  ]
+}
